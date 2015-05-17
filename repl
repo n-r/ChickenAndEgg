@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+
+import os
+
+print("\nEnter q to quit")
+
+while True:
+    val = input("\nChicken And Egg\nDeapth: ")
+    if val == "q":
+        print("Goodbye")
+        break
+    if not val.isdigit():
+        print("\nPlease enter whole number or q to exit")
+        continue
+    print("")
+    os.system("./chickenAndEgg.py " + val)
