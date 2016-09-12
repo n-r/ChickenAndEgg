@@ -22,16 +22,16 @@ $ ./repl
 Enter q to quit
 
 Chicken And Egg
-Deapth: 3
+Depth: 3
 
 Which came first, "Which came first, 'Which came first, the chicken or the egg?' or 'Which came first, the egg or the chicken?'" or "Which came first, 'Which came first, the egg or the chicken?' or 'Which came first, the chicken or the egg?'"
 
 Chicken And Egg
-Deapth: 5
+Depth: 5
 
 Which came first, "Which came first, 'Which came first, "Which came first, 'Which came first, the chicken or the egg?' or 'Which came first, the egg or the chicken?'" or "Which came first, 'Which came first, the egg or the chicken?' or 'Which came first, the chicken or the egg?'"' or 'Which came first, "Which came first, 'Which came first, the egg or the chicken?' or 'Which came first, the chicken or the egg?'" or "Which came first, 'Which came first, the chicken or the egg?' or 'Which came first, the egg or the chicken?'"'" or "Which came first, 'Which came first, "Which came first, 'Which came first, the egg or the chicken?' or 'Which came first, the chicken or the egg?'" or "Which came first, 'Which came first, the chicken or the egg?' or 'Which came first, the egg or the chicken?'"' or 'Which came first, "Which came first, 'Which came first, the chicken or the egg?' or 'Which came first, the egg or the chicken?'" or "Which came first, 'Which came first, the egg or the chicken?' or 'Which came first, the chicken or the egg?'"'"
 
 Chicken And Egg
-Deapth: q
+Depth: q
 Goodbye
 ```
