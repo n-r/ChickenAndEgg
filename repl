@@ -5,7 +5,7 @@ import os
 print("\nEnter q to quit")
 
 while True:
-    val = input("\nChicken And Egg\nDeapth: ")
+    val = input("\nChicken And Egg\nDepth: ")
     if val == "q":
         print("Goodbye")
         break
